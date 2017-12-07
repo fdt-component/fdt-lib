@@ -23,7 +23,7 @@
     "nwb": "0.20.x"
   },
   "author": "",
-  "homepage": "",
+  "homepage": "https://yarnpkg.com/en/package/fdt-lib",
   "license": "MIT",
-  "repository": ""
+  "repository": "https://github.com/fdt-component/fdt-lib"
 }
