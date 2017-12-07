@@ -1,1 +1,3 @@
-export default 'Welcome to fdt-lib'
+import * as utils from './utils/index';
+
+export {utils};
