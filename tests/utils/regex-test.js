@@ -9,7 +9,6 @@ describe('正则表达式', () => {
     expect(utils.isNatural('-1')).toEqual(false);
     expect(utils.isNatural('01')).toEqual(true);
     expect(utils.isNatural('a')).toEqual(false);
-    expect(utils.isNonNegative()).toEqual(false);
   });
   it('非负数', () => {
     expect(utils.isNonNegative(-1)).toEqual(false);
